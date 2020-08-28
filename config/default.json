@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://redx123:redx123@devconnector.fpxql.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://redx123:redx123@devconnector.fpxql.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
