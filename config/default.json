@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://redx123:redx123@devconnector.fpxql.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "0934457b283554dde66d",
+    "githubSecret": "37a8c34ffdc61058897d32eb637cd4f65767d026"
 }
